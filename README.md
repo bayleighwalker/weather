@@ -1,5 +1,5 @@
 Created a weather app using the OpenWeather API styled with bootstrap.
-
+ https://bayleighwalker.github.io/weather/
 
 ![weather1](https://user-images.githubusercontent.com/79384523/116955151-5a2d9100-ac57-11eb-8dbc-f4bacf689279.png)
 
